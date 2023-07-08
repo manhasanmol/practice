@@ -9,3 +9,4 @@ git status #to check anythig need to commit or not
 git add #to add things in a git res
 git commit #to confirm a change after everything
 git log #to see all changes
+git checkout #to undo before commit
