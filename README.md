@@ -24,6 +24,15 @@ git branch <branch-name> #create one
 git checkout <branch-name> #change from one to another add -b to switch to it 
 git branch -d <branch-name> #Delete a branch (only if merged) or -D to force delete
 
+# open source contribution
+u can't make directly u need to first fork the repository 
+after that will copy to your account do some changes or 
+contribute, after if u want the person to adapt u need to pull
+request, in network section that person can see your repository
+in pull req u can tell real owner wht u contribute, in pull req of
+owner he can see your pull req and review ur changes also can message u
+or merge the changes.
+
 
 
 
